@@ -99,7 +99,7 @@ To run the tests
 mvn test
 ```
 
-To be able to build and run it via maven you should be in the module directory(/code-challenge)
+To be able to build and run it via maven you should be in the **module directory** ***(/code-challenge)***
 ```
 1. mvn clean install
 2. mvn spring-boot:run
